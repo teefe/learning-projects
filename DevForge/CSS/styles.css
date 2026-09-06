@@ -22,3 +22,11 @@ nav a{
     border-radius: 12px;
     margin-bottom: 20px;
 }
+article{
+    margin: 10px;
+}
+.projects-section{
+    display: flex;
+    flex-direction: column-reverse;
+    justify-content:end;
+}
